@@ -1,0 +1,9 @@
+{
+  "name": "LifeDrop Blood Donation App",
+  "short_name": "LifeDrop",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFF8F8",
+  "theme_color": "#E53935",
+  "description": "Find donors, manage blood requests, and track donation impact."
+}
